@@ -38,7 +38,7 @@ variable "vm_base" {
     memory        = 2,
     core_fraction = 20,
     image_family  = "centos-7"
-    image_id = "fd8qjapp8kkrjj35gokr"
+    image_id = "fd827b91d99psvq5fjit"
     disk_size     = 20
   }
 }
